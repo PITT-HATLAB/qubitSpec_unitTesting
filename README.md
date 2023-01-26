@@ -1,5 +1,7 @@
 # qubitSpec_unitTesting
 
+See [Wiki](../../wiki) for working draft of documentation.
+
 ## Setup
 
 First, clone the repository:
