@@ -1,2 +1,4 @@
 qutip
 matplotlib
+ipympl
+tqdm
